@@ -1,0 +1,29 @@
+body{font-family:sans-serif;}
+h1{
+  color:#1e90ff;
+  border:2px solid #1e90ff;
+  text-align:center;
+  padding:5px 0;}
+.titres{
+  color:green;
+  text-decoration:underline;
+}
+h3{
+  color:lightgreen;
+}
+p{
+  background-color:darkgreen;
+  color:white;
+}
+img{
+  margin-left: 25px;
+  margin-right: 25px;
+}
+underline{
+  text-decoration: underline;
+}
+annotation{
+  font-size: 10px;
+  color:gray;
+  font-style: italic;
+}
